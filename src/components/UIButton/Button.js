@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import styled from "styled-components";
 import styles from './CourseInput.module.css'
 //import styled from "styled-components";
 
